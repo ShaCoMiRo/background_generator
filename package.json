@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ShaCoMiRo/background_generator#readme",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "package.json": "^2.0.1"
   }
 }
